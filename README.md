@@ -1,3 +1,3 @@
 # Mobile_Cifope_Baobab
-Rect-native
+React-native
 Application mobile cifope séminaires internationnaux
